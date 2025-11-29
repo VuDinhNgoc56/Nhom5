@@ -1,0 +1,26 @@
+[
+    {
+        "id": 7,
+        "name": "Ti vi đẹp ",
+        "brand": "Samsung",
+        "category": "Điện thoại Tivi",
+        "price": 3500,
+        "image": "https://cdn2.fptshop.com.vn/unsafe/384x0/filters:quality(100)/samsung_galaxy_watch7_44mm_green_da4bc21dde.png"
+    },
+    {
+        "id": 8,
+        "name": "Samsung 4K UHD TV",
+        "brand": "Samsung",
+        "category": "Điện thoại Tivi",
+        "price": 1500,
+        "image": "https://cdn2.fptshop.com.vn/unsafe/384x0/filters:quality(100)/samsung_galaxy_watch7_44mm_green_da4bc21dde.png"
+    },
+    {
+        "id": 9,
+        "name": "Samsung 65\" Smart TV",
+        "brand": "Samsung",
+        "category": "Điện thoại Tivi",
+        "price": 2000,
+        "image":"https://cdn2.fptshop.com.vn/unsafe/384x0/filters:quality(100)/samsung_galaxy_watch7_44mm_green_da4bc21dde.png"
+    }
+]

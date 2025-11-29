@@ -1,0 +1,46 @@
+
+.mainImg {
+    background-color: aliceblue;
+     box-shadow: 0px 3px 5px wheat;
+    position: absolute;
+    overflow: auto;
+   left: 10px;
+    padding: 10px 10px 10px 10px ;
+    border-radius: 10px;
+    display: none;
+        margin-top: 5rem;
+        height: 140px;
+        max-width: 30em;
+        .img {
+           max-width: 30em;
+                  height: 100%;
+               
+                  transition: opacity 0.8s ease-in-out;
+        }
+        .img.active {
+  opacity: 1;
+}
+}
+@media (max-width: 1200px) {
+    .mainImg {
+        display: none;
+    }
+    
+}
+@media ((max-width: 768px)) {
+        .mainImg {
+            overflow: hidden;
+         
+            margin-right: 7%;
+           
+            border-radius: 20px;
+           display: block;
+            margin-top: 5em;
+           height: 140px;
+     
+        .img {
+           max-width: 20em;
+                 height: 100%;
+        }
+}
+}

@@ -1,0 +1,117 @@
+{
+    "name": "Hãng Tivi",
+    "phonecompany": [
+        {
+            "id": 1,
+            "name": "Ti vi Samsung 4K",
+            "image":"https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/1942/279935/smart-samsung-4k-43-inch-ua43au7002-1-638690307655076809-700x467.jpg"
+        },
+        {
+            "id":2,
+            "name": " Ti vi Sony ",
+            "image":"https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/1942/327550/android-tivi-aqua-43-inch-aqt43k800fg-1-638653022010117023-700x467.jpg"
+        },
+        {
+            "id":3,
+            "name": "Ti vi Xiamio",
+            "image":"https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/1942/279935/smart-samsung-4k-43-inch-ua43au7002-1-638690307655076809-700x467.jpg"
+           
+        },
+        {
+            "id":4,
+            "name": "Tivi LG",
+             "image":"https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/1942/327550/android-tivi-aqua-43-inch-aqt43k800fg-1-638653022010117023-700x467.jpg"
+           
+        },
+        {
+            "id":5,
+            "name": "Ti vi TCL",
+             "image":"https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/1942/327550/android-tivi-aqua-43-inch-aqt43k800fg-1-638653022010117023-700x467.jpg"
+           
+        },
+        {
+            "id":6,
+            "name": "Ti vi Casper",
+             "image":"https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/1942/327550/android-tivi-aqua-43-inch-aqt43k800fg-1-638653022010117023-700x467.jpg"
+           
+        },
+        {
+            "id":7,
+            "name": "Ti vi Toshiba",
+             "image":"https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/1942/279935/smart-samsung-4k-43-inch-ua43au7002-1-638690307655076809-700x467.jpg"
+           
+        },
+        {
+            "id":8,
+            "name": "Ti vi Hisense",
+             "image":"https://cdnv2.tgdd.vn/mwg-static/dmx/Products/Images/1942/327550/android-tivi-aqua-43-inch-aqt43k800fg-1-638653022010117023-700x467.jpg"
+           
+        }
+    ],
+    "price":[
+        {
+            "id": 1,
+            "price_level": "Dưới 2 triệu"
+            
+
+        },
+        {
+            "id": 2,
+            "price_level": "Từ 5 đến 10 triệu"
+            
+        },
+        {
+            "id": 3,
+            "price_level": "Từ 10 - 20 triệu"
+            
+        },
+        {
+            "id": 4,
+            "price_level": "Dưới 30 triệu "
+            
+        }, {
+            "id": 5,
+            "price_level": "dưới 50 triệu "
+            
+        }
+    ],
+    "hot__phone": [
+        {
+            "id": 1,
+            "name": "samsung",
+              "image":"https://didongmoi.com.vn/upload/images/product/samsung/samsung-galaxy-s22-ultra-5g(1).jpg"
+        },
+        {
+            "id": 2,
+            "name": "samsung",
+              "image":"https://didongmoi.com.vn/upload/images/product/samsung/samsung-galaxy-s22-ultra-5g(1).jpg"
+        },
+        {
+            "id": 3,
+            "name": "samsung",
+              "image":"https://didongmoi.com.vn/upload/images/product/samsung/samsung-galaxy-s22-ultra-5g(1).jpg"
+        },
+        {
+            "id": 4,
+            "name": "samsung",
+              "image":"https://didongmoi.com.vn/upload/images/product/samsung/samsung-galaxy-s22-ultra-5g(1).jpg"
+        },
+        {
+            "id": 5,
+            "name": "samsung",
+              "image":"https://didongmoi.com.vn/upload/images/product/samsung/samsung-galaxy-s22-ultra-5g(1).jpg"
+        },
+        {
+            "id": 6,
+            "name": "samsung",
+              "image":"https://didongmoi.com.vn/upload/images/product/samsung/samsung-galaxy-s22-ultra-5g(1).jpg"
+        },
+        {
+            "id": 7,
+            "name": "samsung",
+              "image":"https://didongmoi.com.vn/upload/images/product/samsung/samsung-galaxy-s22-ultra-5g(1).jpg"
+        }
+    ]
+
+    
+}

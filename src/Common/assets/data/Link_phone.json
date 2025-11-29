@@ -1,0 +1,116 @@
+{
+    "name": "Hãng điện thoại",
+    "phonecompany": [
+        {
+            "id": 1,
+            "name": "samsung",
+              "image":"https://didongmoi.com.vn/upload/images/product/samsung/samsung-galaxy-s22-ultra-5g(1).jpg"
+        },
+        {
+              "id":2,
+              "name": "vivo",
+              "image":"https://cdn.tgdd.vn/Products/Images/42/331200/vivo-y19s-bac-thumb-600x600.jpg"
+           
+        },
+        {
+            "id":3,
+            "name": "IPhone",
+              "image":"https://beta-api.bachlongmobile.com/media/catalog/product/cache/bfb35fd1430014b0a164bf3a48626862/i/p/iphone-16-pro-den-650x650_7_1_cropped_5.webp"
+           
+        },
+        {
+            "id":4,
+            "name": "Xiamio",
+              "image":"https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/42/329938/xiaomi-14t-xam-1-638635700973443455-750x500.jpg"
+           
+        },
+        {
+            "id":5,
+            "name": "Ipad",
+              "image":"data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAC4ALgMBIgACEQEDEQH/xAAaAAEBAQEBAQEAAAAAAAAAAAAHBgUEAwgC/8QAMRAAAQMCBAQDCAIDAAAAAAAAAQIDBAURAAYSIQcxQVETInEyZIGRobGywUJhCBQz/8QAGAEBAAMBAAAAAAAAAAAAAAAAAgEDBQT/xAAiEQABBAEEAgMAAAAAAAAAAAABAAIDERIEMUFRIfATIpH/2gAMAwEAAhEDEQA/ALHP7kk1yGG5jrTLTWpTKbaXL6hv8umBvOFTnqzI80mZLDSEICUtyFJCduwOFziK94ddaHuyfyVgUzQzNlV6YuEwXdKUa7b2222+eG1pcaAtQSB5Kr8j5edrDS50+fUDFSopQkS3B4iuu+rkPv6Y88wS8v0maqG0uqSZCPaDU97Sj1UV/a+PcZgVRcptxo5s41HQi4FvMqwUr1uScYETLlTryES6chpIbUU63laUrHUdScMgUovlfqNWKNIkiNJXVIi1eyXZzpQfjq++GPg5IffytJbffdeEeovstF1ZWUoBFhc79cBNYo0tmQYVQihl1O41G4I7pI5jDVwGQW8lyG1KKiiovJKj1sE4DgatLE1az+Krvh5jZHuiPyXgwFTTCrkxbjZWhwNhRB3Ta/TrhC4wuac0MD3JH5rwUSnAqrOtDdbqUhA7nt9cOGV0Tw9u4QkjbI0tdsVU1enCq0xZikL8RF0FPJXUY6MvZmECBFjqsgxlBD7avaSNXmNvS5xXZUhZdytQQalKaUrVqddkHUkLP8UJ7f0Nzzx31SjZYzLCRNjR4UnUD4byEgg25g9v1i7UTsndkG0Tuo0+lfGzG767WNxKokyoUdibRG0yJMck6RuVtqHNPciwNuxON/gMHE5LkJf/AOoqLwXtbfy3xHJznCy+yiElxEqIgaW22TdTY7Dpb+ji44LSUTMtVGU2FBD9XkuJCuYBIO+M2FmojGEvkcFGN8mRaR9eCpHjU5pzawPcG/zcwWPlIqgeI3aUhafgb/rCtx1gutVuBUtaC09GDATvqCkqUon0ssfLBQ/CkPvh9lTYAGkhRIv9MdCuW267NragxEa8YIN7qNkp9TisoAOWqO5/svpsFF5zSTpBsBYX58h64m4lddp8REaNTGEhI2Jkk3Pc+TfGHUZNaqLgVKkslAN0tJuED4W++JZJ2FpsdpNPHk05P/APfaXDMebSt15YAU4tS9Pck3w/f4/nVkV0jkZ7p+icAjsR5xsoWhr11nb6Y+iuCdJepOQ46X1trMl1chOi+yTYAG/Xy4snl+R1gUFmk2v/2Q=="
+        },
+        {
+            "id":6,
+            "name": "oppo",
+              "image":"https://cdn-v2.didongviet.vn/files/products/2023/10/6/1/1699265624762_oppo_a18_didongviet_thumb_anh_san_pham.jpg"
+           
+        },
+        {
+            "id":7,
+            "name": "Nokia",
+              "image":"https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/1/_/1_250.jpg"
+        },
+        {
+            "id":7,
+            "name": "benco",
+              "image":"https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/1/_/1_250.jpg"
+           
+        }
+       
+    ],
+    "price":[
+        {
+            "id": 1,
+            "price_level": "Dưới 2 triệu"
+
+        },
+        {
+            "id": 2,
+            "price_level": "Dưới 2 triệu"
+            
+        },
+        {
+            "id": 3,
+            "price_level": "Từ 2 - 5 triệu"
+            
+        },
+        {
+            "id": 4,
+            "price_level": "Dưới 10 triệu "
+            
+        }, {
+            "id": 5,
+            "price_level": "tử 10 đến 50 triệu "
+            
+        }
+    ],
+    "hot__phone": [
+        {
+            "id": 1,
+            "name": "samsung"
+             
+        },
+        {
+            "id": 2,
+            "name": "I Phone 16 Series"
+             
+        },
+        {
+            "id": 3,
+            "name": "I Phone 15 Series"
+           
+        },
+        {
+            "id": 4,
+            "name": "Galaxy S25 Ultra"
+             
+        },
+        {
+            "id": 5,
+            "name": "samsung"
+        },
+        {
+            "id": 6,
+            "name": "samsung"
+              
+        },
+        {
+            "id": 7,
+            "name": "samsung"
+              
+        }
+      
+    ]
+
+    
+}

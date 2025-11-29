@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Samsung Galaxy S24 Ultra 12GB 256GB",
+        "label":"dataPhone",
+        "brand": "Samsung",
+        "category": "Smartphone",
+        "price": "3.699.000 đ",
+        "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:50:50/q:90/plain/https://cellphones.com.vn/media/catalog/product/g/a/galaxy-s24-ultra-xam_1_3.png"
+    },
+    {
+        "id": 2,
+        "name": "Samsung Galaxy A15 128GB",
+        "label":"dataPhone",
+        "brand": "Samsung",
+        "category": "Smartphone",
+        "price": "3.699.000 đ",
+        "image": "https://cdn2.fptshop.com.vn/unsafe/384x0/filters:quality(100)/2023_12_11_638379104038503416_samsung-galaxy-a15-den-5.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Samsung Galaxy Fit3",
+        "brand": "Samsung",
+        "category": "Smartphone",
+        "price": "3.699.000 đ",
+        "image": "https://cdn2.fptshop.com.vn/unsafe/384x0/filters:quality(100)/2024_2_23_638442845332012006_samsung-galaxy-fit3-den-1.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Samsung Galaxy Watch7 LTE 44mm",
+        "brand": "Samsung",
+        "category": "Foldable Smartphone",
+        "price": "3.699.000 đ",
+        "image": "https://cdn2.fptshop.com.vn/unsafe/384x0/filters:quality(100)/samsung_galaxy_watch7_44mm_green_da4bc21dde.png"
+    },
+    {
+        "id": 5,
+        "name": "Samsung Galaxy A52",
+        "brand": "Samsung",
+        "category": "Smartphone",
+        "price": "3.699.000 đ",
+        "image": "https://cdn2.fptshop.com.vn/unsafe/384x0/filters:quality(100)/samsung_galaxy_watch7_44mm_green_da4bc21dde.png"
+    },
+    {
+        "id": 6,
+        "name": " I phone",
+        "brand": "Samsung",
+        "category": "Smartphone",
+        "price": "3.699.000 đ",
+        "image": "https://cdn2.fptshop.com.vn/unsafe/384x0/filters:quality(100)/samsung_galaxy_watch7_44mm_green_da4bc21dde.png"
+    }
+]

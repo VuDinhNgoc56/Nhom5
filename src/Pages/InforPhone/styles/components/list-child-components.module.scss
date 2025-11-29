@@ -1,0 +1,77 @@
+.nameProduct {
+    margin-top: 5rem;
+    padding-bottom: 0.7rem;
+    margin-bottom: 20px;
+    max-width:100%;
+    display: flex;
+    justify-content: space-between;
+    grid-column-gap: 10rem;
+   
+    &__box1 {
+          display: flex;
+          align-items: center;
+          grid-column-gap: 2rem;
+          .iconStar {
+                display: flex;
+                align-items: center;
+                justify-content: space-evenly;
+          }
+          .namephone {
+            font-size: 1.3rem;
+            font-weight: 700;
+        } 
+        
+        .icon__star {
+            width: 20px;
+             height: 20px;
+             color: rgb(203, 84, 4);
+             
+        }
+        .Wrapper__icon {
+             display: flex;
+             grid-column-gap: 0.2rem;
+        }
+        
+
+    }
+    
+}
+.Wrapper__Address {
+    .Wrapper__call {
+          padding: 5px 5px;
+          border-radius: 10px;
+          font-size: 12px;
+          border: 1px solid black;
+    }
+     
+}
+
+//============================================================responsive=================================
+@media (max-width: 768px ){
+    .nameProduct {
+              margin-top: 0rem !important;
+              position: relative;
+              top: 5rem;
+             display: flex;
+             flex-direction: column;
+             justify-content: center;
+            grid-column-gap: 5rem;
+              &__box1 {
+              padding: 10px;
+              display: flex;
+              flex-direction: column;
+              align-items: start;
+              grid-row-gap: 1rem;
+              .iconStar {
+                    display: flex;
+                    justify-content: space-between;
+                    grid-column-gap: 2rem;
+              }
+             .namephone {
+                 font-size: 0.9rem;
+        } 
+        
+    }
+}
+}
+
