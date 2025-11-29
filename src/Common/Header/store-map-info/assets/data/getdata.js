@@ -18,7 +18,7 @@ function Getdata(props) {
         {id: 1, text:">1 Triệu người đăng ký", image:img4}  ,
         {id: 2, text:"26 cửa hàng Dịch vụ sữa chữa và chăm sóc", image:img1} 
     ]
-    let text = "Vũ Đình Ngọc là hệ thống bán lẻ chính hãng các sản phẩm Apple, Samsung, Xiaomi, OPPO , ASUS, Sony, Lenovo, JBL,… với hơn 30 cửa hàng toàn quốc, đa dạng các thiết bị Điện thoại - Máy tính - Phụ kiện - Gia dụng - TV có giá bán tốt nhất và luôn có quầy trải nghiệm dùng thử.  Quang Hùng Store có chuỗi cửa hàng dịch vụ bảo hành và chăm sóc điện thoại - máy tính  với 26 cửa hàng. Vũ Đình Ngọc cung cấp dịch vụ mua hàng trả góp 3 không: không trả trước - không lãi suất - không phụ phí và miễn phí giao hàng tại nhà."
+    let text = "Vũ Đình Ngọc là hệ thống bán lẻ chính hãng các sản phẩm Apple, Samsung, Xiaomi, OPPO , ASUS, Sony, Lenovo, JBL,… với hơn 30 cửa hàng toàn quốc, đa dạng các thiết bị Điện thoại - Máy tính - Phụ kiện - Gia dụng - TV có giá bán tốt nhất và luôn có quầy trải nghiệm dùng thử.  Vũ Đình Ngọc có chuỗi cửa hàng dịch vụ bảo hành và chăm sóc điện thoại - máy tính  với 26 cửa hàng. Vũ Đình Ngọc cung cấp dịch vụ mua hàng trả góp 3 không: không trả trước - không lãi suất - không phụ phí và miễn phí giao hàng tại nhà."
     let img3D = [img3, img5,img6,img9,img11 , img10];
     return [staticData, text, img3D];
        
